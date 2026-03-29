@@ -1,0 +1,7 @@
+{
+  "name": "MetalSheetVision AI",
+  "description": "Industrial AI vision system for sorting metal sheets by shape and material type (Steel/Aluminum) using paper token recognition and batch tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
